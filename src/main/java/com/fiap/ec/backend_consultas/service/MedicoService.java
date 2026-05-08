@@ -1,6 +1,6 @@
 package com.fiap.ec.backend_consultas.service;
 import com.fiap.ec.backend_consultas.model.Medico;
-import com.fiap.ec.backend_consultas.repository.MedicoRepository;
+import com.fiap.ec.backend_consultas.repostory.MedicoRepository;
 import org.springframework.stereotype.Service;
 import java.util.List;
 @Service
