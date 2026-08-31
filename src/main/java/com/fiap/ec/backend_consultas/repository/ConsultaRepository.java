@@ -1,4 +1,4 @@
-package com.fiap.ec.backend_consultas.repostory;
+package com.fiap.ec.backend_consultas.repository;
 
 import java.util.List;
 
